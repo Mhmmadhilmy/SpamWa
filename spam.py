@@ -1,4 +1,4 @@
-#/usr/bin/python
+#!/usr/bin/python
 import requests,random,json,time,sys,os,re
 # -----------------------------------------------------------
 # created By ./Hilmy
